@@ -1,4 +1,6 @@
-#Jazad Riley
+Jazad Riley
+===========
+
 Nascido em uma pequena cidade rural, cheia de plantações de comidas que o as cidades vizinhas compravam, seu pai comercializava essas mercadorias, e sua mãe cuidava dele e da casa. Aprendeu com ela a cuidar da pequena propriedade que tinham, plantando alguns vegetais e frutas para consumo próprio, o que lhe ensinou a valorizar o trabalho e mais tarde passou esses valores a seu irmão mais novo.
 
 Porem, logo após sua irmã nascer, um convite inesperado de um tio seu o surpreendeu tanto quanto a seus pais, ele dizia que se arrependia de não ter resolvido os problemas que tivera com seu pai, e que, por causa de uma doença, não viveria por muito mais tempo, e convidou a família à ir fazer uma visita à sua casa.
@@ -11,7 +13,9 @@ Anos se passam e, Jazad já com seus 20 anos já mais perto da nobreza, recebe a
 
 Passado apenas 4 anos, já estava no posto que desejava, era o primeiro general do reino de Heidvry, companheiro de grande confiança da família real, principalmente do príncipe Jhienmas Hender Dhraa.
 
-##Informações básicas
+Informações básicas
+-------------------
+
 | Característica | Valor          |
 |----------------|----------------|
 | Nome           | Jazad Riley    |
@@ -49,7 +53,7 @@ Passado apenas 4 anos, já estava no posto que desejava, era o primeiro general 
 
 * * *
 
-###Habilidade
+### Habilidade
 | Hab | Valor | Mod. |
 |-----|-------|------|
 | For | 15    | 2.5  |
@@ -59,14 +63,17 @@ Passado apenas 4 anos, já estava no posto que desejava, era o primeiro general 
 | Sab | 20    | 5.0  |
 | Car | 17    | 3.5  |
 
-###Equipamentos
-####Armas
+### Equipamentos
+
+#### Armas
+
 | Nome      | dano | crit.    | type        |
 |-----------|------|----------|-------------|
 | Dagger +4 | 1d4  | 19-20/x2 | pierc/slash |
 | Longspear | 1d8  | x3       | pierc.      |
 
-#####Dagger +4
+##### Dagger +4
+
 +2 Icy Burst
 
 - +1d6 de dano de gelo
@@ -79,12 +86,14 @@ Passado apenas 4 anos, já estava no posto que desejava, era o primeiro general 
 +1 Seeking
 - evita que tenha que jogar um teste de destreza
 
-####Armadura
+#### Armadura
+
 | Nome       | CA | Max DEX mod. | Armor Penalt |
 |------------|----|--------------|--------------|
 | full-plate | 8  | 1            | -6           |
 
-###Perícias
+### Perícias
+
 | Nome da perícia de class | Hab. | Total | Mod. | Grad | Outros |
 |--------------------------|------|-------|------|------|--------|
 | Concentration            | con  | 27.0  | 4    | 23   | 0      |
@@ -129,7 +138,8 @@ Passado apenas 4 anos, já estava no posto que desejava, era o primeiro general 
 > ¹: armor penalty
 > ²: doublo armor penalty
 
-###Magias
+### Magias
+
 | Nível | Spell p/ Day |
 |-------|--------------|
 | 0     | 6            |
@@ -143,10 +153,12 @@ Passado apenas 4 anos, já estava no posto que desejava, era o primeiro general 
 | 8     | 5            |
 | 9     | 5            |
 
-####Bom saber
+#### Bom saber
+
 - Dificuldade do saving throw pra magia de clérigo = 10 + spell lvl + mod. Sabedoria(5)
 
-####Magias de Clérigo
+#### Magias de Clérigo
+
 | lv | Magia                         | Description                                       |
 |----|-------------------------------|---------------------------------------------------|
 | 0  | Guia                          | +1 em Attack/Saving Throws/Skill roll             |
@@ -167,9 +179,10 @@ Passado apenas 4 anos, já estava no posto que desejava, era o primeiro general 
 |    | Remove Paralysis              | tira paralisia ou slow de criatura(s)             |
 |    | Status                        | monitora condição e posição de aliados            |
 |    | Status                        | monitora condição e posição de aliados            |
+|    | Status                        | monitora condição e posição de aliados            |
 |    | Shield Other                  | eu levo metade do dano de quem eu escolher        |
-|    | Inflict moderate wounds       | touch attack, 2d8 +1/lv (max: +10)                |
 |    | Summon Creature 2             | --                                                |
+| n  | Inflict moderate wounds       | touch attack, 2d8 +1/lv (max: +10)                |
 | 3  | Bestow Curse                  | -6 em hab;-4 attack/saves/checks;50% lose ação    |
 |    | Contagion                     | infecta o alvo com qqr doença escolhida           |
 |    | Create food and water         | alimenta 3 human/1 horse /lv                      |
@@ -181,19 +194,25 @@ Passado apenas 4 anos, já estava no posto que desejava, era o primeiro general 
 | n  | Inflicts Serius Wounds        | 3d8 +1/lv (max:+15)                               |
 | n  | Summon Monster 3              | --                                                |
 | 4  | Air walk                      | pisa no ar como se fosse chão (subindo 45°)       |
-|    | Inflict critical wounds       | 4d8 dano +1/lv (max +20)                          |
-|    | Inflict critical wounds       | 4d8 dano +1/lv (max +20)                          |
 |    | Dismissal                     | força criatura a voltar pro plano nativo          |
-|    | Divine power                  | self:+6 str e +1hp/lv (max +20)                   |
+|    | sending                       | msg curta pra um camarada com direito a resposta  |
+|    | sending                       | msg curta pra um camarada com direito a resposta  |
+|    | sending                       | msg curta pra um camarada com direito a resposta  |
 |    | Control water                 | controla agua, tipo avatar                        |
+| n  | Dismissal                     | força criatura a voltar pro plano nativo          |
 | n  | Divination                    | conversa com o mestre, pedindo dicas              |
+| n  | Divine power                  | self:+6 str e +1hp/lv (max +20)                   |
+| n  | Inflict critical wounds       | 4d8 dano +1/lv (max +20)                          |
+| n  | Inflict critical wounds       | 4d8 dano +1/lv (max +20)                          |
 | 5  | Flame Strike                  | Smite de 1d6 por lvl de dano                      |
 |    | Flame Strike                  | Smite de 1d6 por lvl de dano                      |
-|    | Inflict light wounds, mass    | dano 1d8 +1/lv de massas                          |
-|    | Inflict light wounds, mass    | dano 1d8 +1/lv de massas                          |
 |    | Plane Shift                   | alvos <= 8 viajam para outro plano                |
 |    | Plane Shift                   | pq vc tem que voltar depois xD                    |
 |    | Slay Living                   | touch: mata o nego...                             |
+|    | Slay Living                   | touch: mata o nego...                             |
+|    | Slay Living                   | touch: mata o nego...                             |
+| n  | Inflict light wounds, mass    | dano 1d8 +1/lv de massas                          |
+| n  | Inflict light wounds, mass    | dano 1d8 +1/lv de massas                          |
 | n  | Cure light wounds, mass       | cura 1d8 +1/lv de massas                          |
 | 6  | Bull's Strengt, Mass          | +4 por 1min/lvl pra lvl pessoas                   |
 |    | Blade wall                    | 1d6/lvl de dano numa parede de laminas            |
@@ -214,7 +233,7 @@ Passado apenas 4 anos, já estava no posto que desejava, era o primeiro general 
 | n  | Control weather               | troca o clima de um local                         |
 | n  | Cure Seriuos Wounds, mass     | 3d8 +1/lvl de cura                                |
 | n  | Holy word                     | mata, paraliza, cega, silencia um alvo nongood    |
-| 8  | Create greter undead          | cria sombra, espectros, devoradores ou wraiths    |
+| 8  | Create greater undead         | cria sombra, espectros, devoradores ou wraiths    |
 |    | Dimensional Lock              | teleport e viagem de planos blocked por 1 dia/lvl |
 |    | Earthquake                    | cria um tremor de 5ft/lvl de raio                 |
 |    | Earthquake                    | cria um tremor de 5ft/lvl de raio                 |
@@ -231,7 +250,8 @@ Passado apenas 4 anos, já estava no posto que desejava, era o primeiro general 
 
 * * *
 
-####Divindade: Istus
+#### Divindade: Istus
+
 The Lady of Fate, Istus is a powerful deity who takes an abstract interest in the destinies of mortal and immortal alike. She carries a golden spindle with which she weaves the strands of fate together, spinning the future into the present. Her clerics use divination spells to try to discern what fate will bring, then they celebrate or warn their followers accordingly.
 
 |             | Deus                                |
@@ -245,7 +265,8 @@ The Lady of Fate, Istus is a powerful deity who takes an abstract interest in th
 
 * * *
 
-#####Magias de Domínio
+##### Magias de Domínio
+
 Domínios: Caos, Law
 
 | Domínio | lvl | nome                       | descrição                                                                     |
@@ -262,7 +283,8 @@ Domínios: Caos, Law
 
 > ¹: só casta como caos
 
-###Talentos
+### Talentos
+
 | nome               | descrição                                               |
 |--------------------|---------------------------------------------------------|
 | Eschew Materials   | cast sem materiais                                      |
@@ -274,7 +296,8 @@ Domínios: Caos, Law
 | Sudden Maximize    | maxize 1d6 to 6 derepente once per day                  |
 | Sudden Silent      | casta em silencio de repente once per day               |
 
-####Talentos de classe
+#### Talentos de classe
+
 | nome                | descrição                                           |
 |---------------------|-----------------------------------------------------|
 | weapon proficiency  | proficiencia com todas as armas simples             |
